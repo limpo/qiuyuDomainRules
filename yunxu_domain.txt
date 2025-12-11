@@ -53,7 +53,6 @@
 @@||ad.zijieapi.com^
 @@||ads3-normal-hl.zijieapi.com^
 @@||ads3-normal-lf.zijieapi.com^
-
 !手动放开-视频、广告
 @@||ads5-normal-lq.zijieapi.com^$important
 @@||ads4-normal-lq.zijieapi.com^$important
