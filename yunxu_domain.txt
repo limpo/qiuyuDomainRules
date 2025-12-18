@@ -59,6 +59,13 @@
 @@||ads3-normal-lq.zijieapi.com^$important
 @@||ads2-normal-lq.zijieapi.com^$important
 @@||ads1-normal-lq.zijieapi.com^$important
+@@||ads1-normal-hl.zijieapi.com^$important
+@@||ads2-normal-hl.zijieapi.com^$important
+@@||ads3-normal-hl.zijieapi.com^$important
+@@||ads4-normal-hl.zijieapi.com^$important
+@@||ads5-normal-hl.zijieapi.com^$important
+@@||ads6-normal-hl.zijieapi.com^$important
+@@||ads7-normal-hl.zijieapi.com^$important
 @@||p3-ad-sign.byteimg.com^$important
 @@||v26-m.wkbrowser.com^$important
 @@||frontier-toutiao.snssdk.com^$important
@@ -98,6 +105,3 @@
 @@||intlgame.com^$important
 @@||sgameglobal.com^$important
 @@||intlgame.cn^$important
-!手动放开-游戏-迷你世界 放在adguardhome配置框里（不先放在yunxu_domain.txt里）
-@@||sdk.push.mob.com^$important
-@@||sigmob.cn^$important
