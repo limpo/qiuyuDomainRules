@@ -48,8 +48,11 @@
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||storage.360buyimg.com^$important
 @@||img11.360buyimg.com^$important
-@@||ads3-normal-lq.zijieapi.com^$important
-@@||ads5-normal-lf.zijieapi.com^$important
-@@||ad.zijieapi.com^$important
-@@||ads3-normal-hl.zijieapi.com^$important
-@@||ads3-normal-lf.zijieapi.com^$important
+@@||sdk.push.mob.com^$important
+@@||sigmob.cn^$important
+@@||api-access.pangolin-sdk-toutiao1.com^$important
+@@||open.e.kuaishou.com^$important
+!手动放开-游戏
+@@||intlgame.com^$important
+@@||sgameglobal.com^$important
+@@||intlgame.cn^$important
