@@ -46,8 +46,4 @@
 @@||lf.snssdk.com^$important
 @@||vcs.zijieapi.com^$important
 @@||audid-api.taobao.com^$important
-@@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 @@||cdn.ynuf.aliapp.org^$important
-!手动放开-游戏-迷你世界 放在adguardhome配置框里（不先放在yunxu_domain.txt里）
-@@||sdk.push.mob.com^$important
-@@||sigmob.cn^$important
