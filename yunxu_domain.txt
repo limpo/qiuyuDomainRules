@@ -1,3 +1,9 @@
+@@||sdk.push.mob.com^$important
+@@||sigmob.cn^$important
+@@||open.e.kuaishou.com^$important
+@@||p9-ad-sign.byteimg.com^$important
+@@||api-access.pangolin-sdk-toutiao1.com^$important
+@@||mon.zijieapi.com^$important
 @@||txycdn7.video.qq.com^
 @@||txycdn6.video.qq.com^
 @@||txycdn5.video.qq.com^
@@ -105,3 +111,6 @@
 @@||intlgame.com^$important
 @@||sgameglobal.com^$important
 @@||intlgame.cn^$important
+!手动放开-游戏-迷你世界 放在adguardhome配置框里（不先放在yunxu_domain.txt里）
+@@||sdk.push.mob.com^$important
+@@||sigmob.cn^$important

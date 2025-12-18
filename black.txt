@@ -150,3 +150,14 @@
 ||cn.app.chat.xiaomi.net^$important
 ||cn.register.xmpush.xiaomi.com^$important
 ||weather-drcn.music.dbankcloud.cn^$important
+!日志、abtest等其它
+||cn-beijing.log.aliyuncs.com^$important
+||app-analytics-services.com^$important
+||abtest5-misc-lf.zijieapi.com^$important
+||abtest3-misc-lf.zijieapi.com^$important
+||log-v6.mmstat.com.gds.alibabadns.com^$important
+||rtlog.snssdk.com^$important
+||mercury.jd.com^$important
+||s.yunmengdata.com^$important
+||ys7.com^$important
+||sec.sginput.qq.com^$important
