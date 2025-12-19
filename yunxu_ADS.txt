@@ -1,0 +1,15 @@
+@@||ads5-normal-lq.zijieapi.com^$important
+@@||ads4-normal-lq.zijieapi.com^$important
+@@||ads3-normal-lq.zijieapi.com^$important
+@@||ads2-normal-lq.zijieapi.com^$important
+@@||ads1-normal-lq.zijieapi.com^$important
+@@||ads1-normal-hl.zijieapi.com^$important
+@@||ads2-normal-hl.zijieapi.com^$important
+@@||ads3-normal-hl.zijieapi.com^$important
+@@||ads4-normal-hl.zijieapi.com^$important
+@@||ads5-normal-hl.zijieapi.com^$important
+@@||ads6-normal-hl.zijieapi.com^$important
+@@||ads7-normal-hl.zijieapi.com^$important
+@@||ad.zijieapi.com^$important
+@@||p3-ad-sign.byteimg.com^$important
+@@||p9-ad-sign.byteimg.com^$important
