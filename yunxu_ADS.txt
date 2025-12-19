@@ -3,6 +3,11 @@
 @@||ads3-normal-lq.zijieapi.com^$important
 @@||ads2-normal-lq.zijieapi.com^$important
 @@||ads1-normal-lq.zijieapi.com^$important
+@@||ads1-normal-lf.zijieapi.com^$important
+@@||ads2-normal-lf.zijieapi.com^$important
+@@||ads3-normal-lf.zijieapi.com^$important
+@@||ads4-normal-lf.zijieapi.com^$important
+@@||ads5-normal-lf.zijieapi.com^$important
 @@||ads1-normal-hl.zijieapi.com^$important
 @@||ads2-normal-hl.zijieapi.com^$important
 @@||ads3-normal-hl.zijieapi.com^$important

@@ -43,3 +43,9 @@
 ||abtest3-misc-lq.zijieapi.com^$important
 ||yixiu-abtest.alicdn.com^$important
 ||yixiu-abtest.alicdn.com.w.cdngslb.com^$important
+||aeventlog.beacon.qq.com^$important
+||ulog.v6.gifshow.com^$important
+||rtlog3-applog-hl.fqnovel.com^$important
+||logserver-cn-ty.obs.cn-north1.ctyun.cn^$important
+||ulogs.umeng.com^$important
+||aeventlog.beacon.qq.com^$important
