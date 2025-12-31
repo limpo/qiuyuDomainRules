@@ -49,3 +49,6 @@
 ||logserver-cn-ty.obs.cn-north1.ctyun.cn^$important
 ||ulogs.umeng.com^$important
 ||aeventlog.beacon.qq.com^$important
+||datacollector-drcn.dt.hicloud.com^$important
+||contentcenter-videovali-drcn.dbankcdn.cn^$important
+||log-hl.snssdk.com.queniurc.com^$important
