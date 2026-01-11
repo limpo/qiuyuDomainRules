@@ -85,7 +85,3 @@
 @@||sigmob.cn^$important
 @@||api-access.pangolin-sdk-toutiao1.com^$important
 @@||open.e.kuaishou.com^$important
-!手动放开-游戏
-@@||intlgame.com^$important
-@@||sgameglobal.com^$important
-@@||intlgame.cn^$important
