@@ -656,3 +656,4 @@
 ||ja1.gamersky.com^$important
 ||ja2.gamersky.com^$important
 ||wmbd.gamersky.com^$important
+/game/
