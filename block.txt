@@ -41,3 +41,13 @@
 ||logservice8.dbankcloud.cn^$important
 ||logservice9.dbankcloud.cn^$important
 ||logservice10.dbankcloud.cn^$important
+||log1-normal-hl.toutiaoapi.com^$important
+||log2-normal-hl.toutiaoapi.com^$important
+||log3-normal-hl.toutiaoapi.com^$important
+||log4-normal-hl.toutiaoapi.com^$important
+||log5-normal-hl.toutiaoapi.com^$important
+||log6-normal-hl.toutiaoapi.com^$important
+||log7-normal-hl.toutiaoapi.com^$important
+||log8-normal-hl.toutiaoapi.com^$important
+||log9-normal-hl.toutiaoapi.com^$important
+||log10-normal-hl.toutiaoapi.com^$important
