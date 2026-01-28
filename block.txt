@@ -17,6 +17,8 @@
 /log.aliyuncs.com/
 /nsp-logservice-hiview-p/
 /test.wxqcloud.qq.com/
+||loggw.alipaydns.com^$important
+||alfa.log-global.aliyuncs.com^$important
 ||log.usd.alibabadns.com^$important
 ||abtest5-misc-lf.zijieapi.com^$important
 ||abtest3-misc-lf.zijieapi.com^$important
