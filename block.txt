@@ -13,8 +13,10 @@
 !日志、abtest等其它
 ||cn-beijing.log.aliyuncs.com^$important
 /applog-lf.novelfm.com/
+/applog-hl.fqnovel.com/
 /log.aliyuncs.com/
 /nsp-logservice-hiview-p/
+/test.wxqcloud.qq.com/
 ||log.usd.alibabadns.com^$important
 ||abtest5-misc-lf.zijieapi.com^$important
 ||abtest3-misc-lf.zijieapi.com^$important
