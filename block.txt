@@ -12,6 +12,7 @@
 ||tracker.dler.org^$important
 !日志、abtest等其它
 ||cn-beijing.log.aliyuncs.com^$important
+/applog-lf.novelfm.com/
 /log.aliyuncs.com/
 ||log.usd.alibabadns.com^$important
 ||abtest5-misc-lf.zijieapi.com^$important
