@@ -3,7 +3,7 @@
 /log.aliyuncs.com/
 /nsp-logservice-hiview-p/
 /test.wxqcloud.qq.com/
-||applog-lq.fqnovel.com^$important
+/applog-lq.fqnovel.com/
 ||eclick.e.shifen.com^$important
 ||ios.crashsight.qq.com^$important
 ||abtest1-misc-hl.zijieapi.com^$important
