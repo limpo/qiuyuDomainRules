@@ -1,3 +1,8 @@
+/applog-lf.novelfm.com/
+/applog-hl.fqnovel.com/
+/log.aliyuncs.com/
+/nsp-logservice-hiview-p/
+/test.wxqcloud.qq.com/
 ||applog-lq.fqnovel.com^$important
 ||eclick.e.shifen.com^$important
 ||ios.crashsight.qq.com^$important
@@ -12,11 +17,6 @@
 ||sdk-log.partner.sm.cn^$important
 ||tracker.dler.org^$important
 ||cn-beijing.log.aliyuncs.com^$important
-/applog-lf.novelfm.com/
-/applog-hl.fqnovel.com/
-/log.aliyuncs.com/
-/nsp-logservice-hiview-p/
-/test.wxqcloud.qq.com/
 ||loggw.alipaydns.com^$important
 ||alfa.log-global.aliyuncs.com^$important
 ||log.usd.alibabadns.com^$important
