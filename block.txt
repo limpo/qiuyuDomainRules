@@ -1,3 +1,4 @@
+||applog-lq.fqnovel.com^$important
 ||eclick.e.shifen.com^
 ||ios.crashsight.qq.com^
 ||abtest1-misc-hl.zijieapi.com^
