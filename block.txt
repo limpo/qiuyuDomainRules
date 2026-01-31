@@ -53,3 +53,14 @@
 ||log8-normal-hl.toutiaoapi.com^$important
 ||log9-normal-hl.toutiaoapi.com^$important
 ||log10-normal-hl.toutiaoapi.com^$important
+||log-api.pangolin-sdk-toutiao.com^$important
+||log1-lf.qishui.com^$important
+||log2-lf.qishui.com^$important
+||log3-lf.qishui.com^$important
+||log4-lf.qishui.com^$important
+||log5-lf.qishui.com^$important
+||log6-lf.qishui.com^$important
+||log7-lf.qishui.com^$important
+||log8-lf.qishui.com^$important
+||log9-lf.qishui.com^$important
+||log10-lf.qishui.com^$important
