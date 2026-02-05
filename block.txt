@@ -64,6 +64,16 @@
 ||log8-lf.qishui.com^$important
 ||log9-lf.qishui.com^$important
 ||log10-lf.qishui.com^$important
+||log1-lq.qishui.com^$important
+||log2-lq.qishui.com^$important
+||log3-lq.qishui.com^$important
+||log4-lq.qishui.com^$important
+||log5-lq.qishui.com^$important
+||log6-lq.qishui.com^$important
+||log7-lq.qishui.com^$important
+||log8-lq.qishui.com^$important
+||log9-lq.qishui.com^$important
+||log10-lq.qishui.com^$important
 ||tracer.autoscout24.ch^$important
 ||trace.bluemonkey.jp^$important
 ||trace.insead.edu^$important
