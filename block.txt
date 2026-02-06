@@ -10,6 +10,7 @@
 /madou.io/
 /91porn.com/
 /bt4.cc/
+||dig.bdurl.net:443^$important
 ||toblog.ctobsnssdk.com^$important
 ||mercury.jd.com^$important
 ||hm.baidu.com^$important
