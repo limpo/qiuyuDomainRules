@@ -1,3 +1,12 @@
+||wetype.weixin.qq.com^$important
+||input.qq.com$important
+||pinyin.qq.com^$important
+||py.qq.com^$important
+||ime.baidu.com^$important
+||olime.baidu.com^$important
+||ime.voicecloud.cn^$important
+||www.xinshuru.com^$important
+||shurufa.baidu.com^$important
 /applog-lf.novelfm.com/
 /applog-hl.fqnovel.com/
 /log.aliyuncs.com/
