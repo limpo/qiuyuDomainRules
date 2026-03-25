@@ -23,7 +23,6 @@
 ||dig.bdurl.net^$important
 ||toblog.ctobsnssdk.com^$important
 ||mercury.jd.com^$important
-||hm.baidu.com^$important
 ||extlog.snssdk.com^$important
 ||tracelog-debug.aiclk.com^$important
 ||applog.ucdns.uc.cn^$important
@@ -278,13 +277,6 @@
 ||akstat.io^$important
 ||stat.altalex.com^$important
 ||altastat.com^$important
-||ucstat.baidu.cn^$important
-||imgstat.baidu.com^$important
-||sestat.baidu.com^$important
-||stat.v.baidu.com^$important
-||ucstat.baidu.com^$important
-||stat.baike.com^$important
-||stat.bankiros.ru^$important
 ||pvstat.baomihua.com^$important
 ||basicstat.com^$important
 ||stat.bdc.ca^$important
