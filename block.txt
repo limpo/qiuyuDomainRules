@@ -1,5 +1,6 @@
 ^.*porn.*$
 ^.*madou.*$
+-normal-hl.zijieapi.com$
 ||wetype.weixin.qq.com^
 ||input.qq.com^
 ||pinyin.qq.com^
