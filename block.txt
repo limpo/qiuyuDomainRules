@@ -1,5 +1,6 @@
+^.*madou.*$
 ||wetype.weixin.qq.com^
-||input.qq.com$important
+||input.qq.com^
 ||pinyin.qq.com^
 ||py.qq.com^
 ||im.qq.com^
