@@ -1,6 +1,4 @@
-^.*porn.*$
-^.*madou.*$
--normal-hl.zijieapi.com$
+||ads.mozilla.org^
 ||wetype.weixin.qq.com^
 ||input.qq.com^
 ||pinyin.qq.com^
